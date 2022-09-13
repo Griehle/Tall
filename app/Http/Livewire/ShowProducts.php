@@ -24,6 +24,6 @@ class ShowProducts extends Component
 
     public function render()
     {
-
+        //
     }
 }
